@@ -5,4 +5,4 @@
 
 https://github.com/RFPanda/decker-algorithm/blob/main/assets/asset-1)](https://rfpanda.ga)
 
-https://github.com/RFPanda/decker-algorithm/main/asset-1.png)](https://rfpanda.ga)
+https://github.com/RFPanda/decker-algorithm/blob/main/asset-1.png)](https://rfpanda.ga)
