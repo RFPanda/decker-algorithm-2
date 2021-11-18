@@ -1,0 +1,72 @@
+C:\Users\Admin\source\repos\ALG_Dekkera\ALG_Dekkera\bin\Debug\net5.0-windows\ALG_Dekkera.exe
+C:\Users\Admin\source\repos\ALG_Dekkera\ALG_Dekkera\bin\Debug\net5.0-windows\ALG_Dekkera.deps.json
+C:\Users\Admin\source\repos\ALG_Dekkera\ALG_Dekkera\bin\Debug\net5.0-windows\ALG_Dekkera.runtimeconfig.json
+C:\Users\Admin\source\repos\ALG_Dekkera\ALG_Dekkera\bin\Debug\net5.0-windows\ALG_Dekkera.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ALG_Dekkera\ALG_Dekkera\bin\Debug\net5.0-windows\ALG_Dekkera.dll
+C:\Users\Admin\source\repos\ALG_Dekkera\ALG_Dekkera\bin\Debug\net5.0-windows\ref\ALG_Dekkera.dll
+C:\Users\Admin\source\repos\ALG_Dekkera\ALG_Dekkera\bin\Debug\net5.0-windows\ALG_Dekkera.pdb
+C:\Users\Admin\source\repos\ALG_Dekkera\ALG_Dekkera\obj\Debug\net5.0-windows\ALG_Dekkera.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ALG_Dekkera\ALG_Dekkera\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Admin\source\repos\ALG_Dekkera\ALG_Dekkera\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Admin\source\repos\ALG_Dekkera\ALG_Dekkera\obj\Debug\net5.0-windows\ALG_Dekkera_MarkupCompile.cache
+C:\Users\Admin\source\repos\ALG_Dekkera\ALG_Dekkera\obj\Debug\net5.0-windows\ALG_Dekkera_MarkupCompile.lref
+C:\Users\Admin\source\repos\ALG_Dekkera\ALG_Dekkera\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Admin\source\repos\ALG_Dekkera\ALG_Dekkera\obj\Debug\net5.0-windows\ALG_Dekkera.g.resources
+C:\Users\Admin\source\repos\ALG_Dekkera\ALG_Dekkera\obj\Debug\net5.0-windows\ALG_Dekkera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ALG_Dekkera\ALG_Dekkera\obj\Debug\net5.0-windows\ALG_Dekkera.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ALG_Dekkera\ALG_Dekkera\obj\Debug\net5.0-windows\ALG_Dekkera.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ALG_Dekkera\ALG_Dekkera\obj\Debug\net5.0-windows\ALG_Dekkera.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ALG_Dekkera\ALG_Dekkera\obj\Debug\net5.0-windows\ALG_Dekkera.dll
+C:\Users\Admin\source\repos\ALG_Dekkera\ALG_Dekkera\obj\Debug\net5.0-windows\ref\ALG_Dekkera.dll
+C:\Users\Admin\source\repos\ALG_Dekkera\ALG_Dekkera\obj\Debug\net5.0-windows\ALG_Dekkera.pdb
+C:\Users\Admin\source\repos\ALG_Dekkera\ALG_Dekkera\obj\Debug\net5.0-windows\ALG_Dekkera.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ALG_Dekkera\ALG_Dekkera\obj\Debug\net5.0-windows\Window1.g.cs
+C:\Users\Admin\source\repos\ALG_Dekkera\ALG_Dekkera\obj\Debug\net5.0-windows\Window1.baml
+C:\Study\Операционные системы\лр2\Прога4\ALG_Dekkera\bin\Debug\net5.0-windows\ALG_Dekkera.exe
+C:\Study\Операционные системы\лр2\Прога4\ALG_Dekkera\bin\Debug\net5.0-windows\ALG_Dekkera.deps.json
+C:\Study\Операционные системы\лр2\Прога4\ALG_Dekkera\bin\Debug\net5.0-windows\ALG_Dekkera.runtimeconfig.json
+C:\Study\Операционные системы\лр2\Прога4\ALG_Dekkera\bin\Debug\net5.0-windows\ALG_Dekkera.runtimeconfig.dev.json
+C:\Study\Операционные системы\лр2\Прога4\ALG_Dekkera\bin\Debug\net5.0-windows\ALG_Dekkera.dll
+C:\Study\Операционные системы\лр2\Прога4\ALG_Dekkera\bin\Debug\net5.0-windows\ref\ALG_Dekkera.dll
+C:\Study\Операционные системы\лр2\Прога4\ALG_Dekkera\bin\Debug\net5.0-windows\ALG_Dekkera.pdb
+C:\Study\Операционные системы\лр2\Прога4\ALG_Dekkera\obj\Debug\net5.0-windows\ALG_Dekkera.csprojAssemblyReference.cache
+C:\Study\Операционные системы\лр2\Прога4\ALG_Dekkera\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Study\Операционные системы\лр2\Прога4\ALG_Dekkera\obj\Debug\net5.0-windows\Window1.g.cs
+C:\Study\Операционные системы\лр2\Прога4\ALG_Dekkera\obj\Debug\net5.0-windows\App.g.cs
+C:\Study\Операционные системы\лр2\Прога4\ALG_Dekkera\obj\Debug\net5.0-windows\ALG_Dekkera_MarkupCompile.cache
+C:\Study\Операционные системы\лр2\Прога4\ALG_Dekkera\obj\Debug\net5.0-windows\ALG_Dekkera_MarkupCompile.lref
+C:\Study\Операционные системы\лр2\Прога4\ALG_Dekkera\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Study\Операционные системы\лр2\Прога4\ALG_Dekkera\obj\Debug\net5.0-windows\Window1.baml
+C:\Study\Операционные системы\лр2\Прога4\ALG_Dekkera\obj\Debug\net5.0-windows\ALG_Dekkera.g.resources
+C:\Study\Операционные системы\лр2\Прога4\ALG_Dekkera\obj\Debug\net5.0-windows\ALG_Dekkera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\Операционные системы\лр2\Прога4\ALG_Dekkera\obj\Debug\net5.0-windows\ALG_Dekkera.AssemblyInfoInputs.cache
+C:\Study\Операционные системы\лр2\Прога4\ALG_Dekkera\obj\Debug\net5.0-windows\ALG_Dekkera.AssemblyInfo.cs
+C:\Study\Операционные системы\лр2\Прога4\ALG_Dekkera\obj\Debug\net5.0-windows\ALG_Dekkera.csproj.CoreCompileInputs.cache
+C:\Study\Операционные системы\лр2\Прога4\ALG_Dekkera\obj\Debug\net5.0-windows\ALG_Dekkera.dll
+C:\Study\Операционные системы\лр2\Прога4\ALG_Dekkera\obj\Debug\net5.0-windows\ref\ALG_Dekkera.dll
+C:\Study\Операционные системы\лр2\Прога4\ALG_Dekkera\obj\Debug\net5.0-windows\ALG_Dekkera.pdb
+C:\Study\Операционные системы\лр2\Прога4\ALG_Dekkera\obj\Debug\net5.0-windows\ALG_Dekkera.genruntimeconfig.cache
+C:\Study\Операционные системы\лр2\Прога5 - с задержкой\ALG_Dekkera\bin\Debug\net5.0-windows\ALG_Dekkera.exe
+C:\Study\Операционные системы\лр2\Прога5 - с задержкой\ALG_Dekkera\bin\Debug\net5.0-windows\ALG_Dekkera.deps.json
+C:\Study\Операционные системы\лр2\Прога5 - с задержкой\ALG_Dekkera\bin\Debug\net5.0-windows\ALG_Dekkera.runtimeconfig.json
+C:\Study\Операционные системы\лр2\Прога5 - с задержкой\ALG_Dekkera\bin\Debug\net5.0-windows\ALG_Dekkera.runtimeconfig.dev.json
+C:\Study\Операционные системы\лр2\Прога5 - с задержкой\ALG_Dekkera\bin\Debug\net5.0-windows\ALG_Dekkera.dll
+C:\Study\Операционные системы\лр2\Прога5 - с задержкой\ALG_Dekkera\bin\Debug\net5.0-windows\ref\ALG_Dekkera.dll
+C:\Study\Операционные системы\лр2\Прога5 - с задержкой\ALG_Dekkera\bin\Debug\net5.0-windows\ALG_Dekkera.pdb
+C:\Study\Операционные системы\лр2\Прога5 - с задержкой\ALG_Dekkera\obj\Debug\net5.0-windows\ALG_Dekkera.csprojAssemblyReference.cache
+C:\Study\Операционные системы\лр2\Прога5 - с задержкой\ALG_Dekkera\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Study\Операционные системы\лр2\Прога5 - с задержкой\ALG_Dekkera\obj\Debug\net5.0-windows\Window1.g.cs
+C:\Study\Операционные системы\лр2\Прога5 - с задержкой\ALG_Dekkera\obj\Debug\net5.0-windows\App.g.cs
+C:\Study\Операционные системы\лр2\Прога5 - с задержкой\ALG_Dekkera\obj\Debug\net5.0-windows\ALG_Dekkera_MarkupCompile.cache
+C:\Study\Операционные системы\лр2\Прога5 - с задержкой\ALG_Dekkera\obj\Debug\net5.0-windows\ALG_Dekkera_MarkupCompile.lref
+C:\Study\Операционные системы\лр2\Прога5 - с задержкой\ALG_Dekkera\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Study\Операционные системы\лр2\Прога5 - с задержкой\ALG_Dekkera\obj\Debug\net5.0-windows\Window1.baml
+C:\Study\Операционные системы\лр2\Прога5 - с задержкой\ALG_Dekkera\obj\Debug\net5.0-windows\ALG_Dekkera.g.resources
+C:\Study\Операционные системы\лр2\Прога5 - с задержкой\ALG_Dekkera\obj\Debug\net5.0-windows\ALG_Dekkera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\Операционные системы\лр2\Прога5 - с задержкой\ALG_Dekkera\obj\Debug\net5.0-windows\ALG_Dekkera.AssemblyInfoInputs.cache
+C:\Study\Операционные системы\лр2\Прога5 - с задержкой\ALG_Dekkera\obj\Debug\net5.0-windows\ALG_Dekkera.AssemblyInfo.cs
+C:\Study\Операционные системы\лр2\Прога5 - с задержкой\ALG_Dekkera\obj\Debug\net5.0-windows\ALG_Dekkera.csproj.CoreCompileInputs.cache
+C:\Study\Операционные системы\лр2\Прога5 - с задержкой\ALG_Dekkera\obj\Debug\net5.0-windows\ALG_Dekkera.dll
+C:\Study\Операционные системы\лр2\Прога5 - с задержкой\ALG_Dekkera\obj\Debug\net5.0-windows\ref\ALG_Dekkera.dll
+C:\Study\Операционные системы\лр2\Прога5 - с задержкой\ALG_Dekkera\obj\Debug\net5.0-windows\ALG_Dekkera.pdb
+C:\Study\Операционные системы\лр2\Прога5 - с задержкой\ALG_Dekkera\obj\Debug\net5.0-windows\ALG_Dekkera.genruntimeconfig.cache

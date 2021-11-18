@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>Blackvariant-Button-Ui-System-Apps-Console.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="bg.gif" />
+    <None Remove="oboi7.com-21968.jpg" />
+    <None Remove="Чек-2021-10-17-213049.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="bg.gif" />
+    <Resource Include="oboi7.com-21968.jpg" />
+    <Resource Include="Чек-2021-10-17-213049.jpg" />
+  </ItemGroup>
+
+</Project>
